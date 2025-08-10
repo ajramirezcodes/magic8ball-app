@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/magic8ball-app/static/css/main.820c8b8a.css",
+    "main.js": "/magic8ball-app/static/js/main.55c64271.js",
+    "static/js/453.8d4bf302.chunk.js": "/magic8ball-app/static/js/453.8d4bf302.chunk.js",
+    "index.html": "/magic8ball-app/index.html",
+    "main.820c8b8a.css.map": "/magic8ball-app/static/css/main.820c8b8a.css.map",
+    "main.55c64271.js.map": "/magic8ball-app/static/js/main.55c64271.js.map",
+    "453.8d4bf302.chunk.js.map": "/magic8ball-app/static/js/453.8d4bf302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820c8b8a.css",
+    "static/js/main.55c64271.js"
+  ]
+}
